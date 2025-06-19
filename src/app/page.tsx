@@ -24,6 +24,10 @@ export default function Home() {
           <img src="" alt="Dave profile" />
           <p>Dave</p>
         </Link>
+        <Link href="/profile_carole" className="flex flex-col items-center gap-[8px] border border-gray-200  border-solid rounded-[8px] p-[8px] w-[200px] h-[250px] mt-8 align-items-center justify-center shadow-lg hover:border-pink-500 cursor-pointer">
+          <img src="" alt="carole profile" />
+          <p>Carole</p>
+        </Link>
       </main>
       <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
        
