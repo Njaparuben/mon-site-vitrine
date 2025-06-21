@@ -1,4 +1,4 @@
-import type { NextConfig } from "next";
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export', // Cette ligne est cruciale pour l'exportation statique
@@ -12,4 +12,4 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
-export default nextConfig as NextConfig;
+
