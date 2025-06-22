@@ -2,6 +2,7 @@
   "name": "site_vitrine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://njaparuben.github.io/mon-site-vitrine/",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
